@@ -2,7 +2,7 @@
 
 ### JavaScript Code Quality Tools
 
-- [eslint](http://eslint.org/) - [Git](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+- [eslint](http://eslint.org/) [:octocat:](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
 - [jshint](http://jshint.com/) - [Git](https://github.com/jshint/jshint)
 - [jslint](http://www.jslint.com/) - [Git](https://github.com/reid/node-jslint)
 
