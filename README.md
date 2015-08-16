@@ -1,5 +1,12 @@
 # awesome-frontend
 
+### CSS Frameworks
+
+- [:octocat:](https://github.com/twbs/bootstrap/) [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [:octocat:](https://github.com/Dogfalo/materialize) [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
+- [:octocat:](https://github.com/semantic-org/semantic-ui/) [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
+- [:octocat:](https://github.com/allmobilize/amazeui) [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
+
 ### CSS Preprocessors
 
 - [:octocat:](https://github.com/less/less.js) [Less](http://lesscss.org/) - The dynamic stylesheet language.
@@ -11,6 +18,28 @@
 - [:octocat:](https://github.com/eslint/eslint) [eslint](http://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [:octocat:](https://github.com/jshint/jshint) [jshint](http://jshint.com/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 - [:octocat:](https://github.com/reid/node-jslint) [jslint](http://www.jslint.com/) - The JavaScript code quality tool.
+
+### Package Mangement Tools
+
+- [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
+- [:octocat:](https://github.com/bower/bower) [bower](http://bower.io/) - A package manager for the web.
+
+### Build Tools & Module Loaders
+
+- [:octocat:](https://github.com/webpack/webpack) [webpack](https://webpack.github.io/) - A bundler for javascript and friends.
+- [:octocat:](https://github.com/gulpjs/gulp) [gulp](http://gulpjs.com/) - The streaming build system.
+- [:octocat:](https://github.com/gruntjs/grunt) [grunt](http://gruntjs.com/) - The JavaScript Task Runner.
+- [:octocat:](https://github.com/substack/node-browserify) [browserify](http://browserify.org/) - Browser-side require() the node.js way.
+
+### ECMAScript
+
+- [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
+- [ECMA 6 Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+- [ES6 Features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
+- [:octocat:](https://github.com/ruanyf/es6tutorial/) [ECMAScript 6入门](http://es6.ruanyifeng.com/) - (阮一峰)《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性.
+- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
+- [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 
 ### Data Visualization
 
