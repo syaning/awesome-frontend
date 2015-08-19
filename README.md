@@ -19,6 +19,15 @@
 - [:octocat:](https://github.com/jshint/jshint) [jshint](http://jshint.com/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 - [:octocat:](https://github.com/reid/node-jslint) [jslint](http://www.jslint.com/) - The JavaScript code quality tool.
 
+### JavaScript Libraries and Frameworks
+
+- [:octocat:](https://github.com/jquery/jquery) [jQuery](http://jquery.com/)
+- [:octocat:](https://github.com/angular/angular.js) [AngularJS](https://angularjs.org/)
+- [:octocat:](https://github.com/angular/angular) [AngularJS 2](https://angular.io/)
+- [:octocat:](https://github.com/facebook/react) [React](https://facebook.github.io/react/)
+- [:octocat:](https://github.com/yyx990803/vue) [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
+- [:octocat:](https://github.com/emberjs/ember.js) [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
+
 ### Package Mangement Tools
 
 - [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
