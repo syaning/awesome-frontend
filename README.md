@@ -45,7 +45,7 @@
 - [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
 - [ECMA 6 Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
 - [ES6 Features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
-- [:octocat:](https://github.com/ruanyf/es6tutorial/) [ECMAScript 6入门](http://es6.ruanyifeng.com/) - (阮一峰)《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性.
+- [:octocat:](https://github.com/ruanyf/es6tutorial/) [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/) - An open-source ES6 tutorial.
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
 - [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
