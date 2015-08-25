@@ -29,6 +29,11 @@
 - [:octocat:](https://github.com/yyx990803/vue) [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
 - [:octocat:](https://github.com/emberjs/ember.js) [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
 
+### UI Frameworks
+
+- [:octocat:](https://github.com/angular-ui/bootstrap/) [UI Bootstrap](https://angular-ui.github.io/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
+- [:octocat:](https://github.com/elementalui/elemental) [Elemental UI](http://elemental-ui.com/) - A flexible and beautiful UI framework for React.js.
+
 ### Package Mangement Tools
 
 - [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
