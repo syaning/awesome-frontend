@@ -29,11 +29,6 @@
 - [:octocat:](https://github.com/yyx990803/vue) [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
 - [:octocat:](https://github.com/emberjs/ember.js) [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
 
-### UI Frameworks
-
-- [:octocat:](https://github.com/angular-ui/bootstrap/) [UI Bootstrap](https://angular-ui.github.io/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required.
-- [:octocat:](https://github.com/elementalui/elemental) [Elemental UI](http://elemental-ui.com/) - A flexible and beautiful UI framework for React.js.
-
 ### Package Mangement Tools
 
 - [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
@@ -68,3 +63,13 @@
 - [:octocat:](https://github.com/gwatts/jquery.sparkline) [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
 - [:octocat:](https://github.com/benpickles/peity/) [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 - [:octocat:](https://github.com/tgdwyer/WebCola) [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
+
+### Angular
+
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
+- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
+
+### React
+
+- [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
+- [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
