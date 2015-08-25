@@ -55,6 +55,7 @@
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
 - [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
+- [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
 
 ### Data Visualization
 
