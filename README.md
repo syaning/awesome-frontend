@@ -73,4 +73,5 @@
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
+- [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
