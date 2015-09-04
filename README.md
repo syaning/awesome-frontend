@@ -1,8 +1,9 @@
 # awesome-frontend
 
-### HTML5
+### Compatibility
 
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.
+- [Can I Use](http://caniuse.com/) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ### CSS Frameworks
 
@@ -10,6 +11,7 @@
 - [:octocat:](https://github.com/Dogfalo/materialize) [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 - [:octocat:](https://github.com/semantic-org/semantic-ui/) [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
 - [:octocat:](https://github.com/allmobilize/amazeui) [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
+- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
 
 ### CSS Preprocessors
 
@@ -43,28 +45,23 @@
 - [:octocat:](https://github.com/yyx990803/vue) [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
 - [:octocat:](https://github.com/emberjs/ember.js) [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
 
-### Package Mangement Tools
-
-- [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
-- [:octocat:](https://github.com/bower/bower) [bower](http://bower.io/) - A package manager for the web.
-
-### Build Tools & Module Loaders
-
-- [:octocat:](https://github.com/webpack/webpack) [webpack](https://webpack.github.io/) - A bundler for javascript and friends.
-- [:octocat:](https://github.com/gulpjs/gulp) [gulp](http://gulpjs.com/) - The streaming build system.
-- [:octocat:](https://github.com/gruntjs/grunt) [grunt](http://gruntjs.com/) - The JavaScript Task Runner.
-- [:octocat:](https://github.com/substack/node-browserify) [browserify](http://browserify.org/) - Browser-side require() the node.js way.
-
 ### ECMAScript
 
 - [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
 - [ECMA 6 Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
 - [ES6 Features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
-- [:octocat:](https://github.com/ruanyf/es6tutorial/) [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/) - An open-source ES6 tutorial.
+- [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/) - An open-source ES6 tutorial.
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-- [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
+- [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
 - [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 - [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
+
+### JavaScript Promise
+
+- [Promises](https://www.promisejs.org/)
+- [Promise/A+](https://promisesaplus.com/)
+- [ES6 Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [JavaScript Promise Book](http://liubin.github.io/promises-book/)
 
 ### Data Visualization
 
@@ -77,6 +74,18 @@
 - [:octocat:](https://github.com/gwatts/jquery.sparkline) [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
 - [:octocat:](https://github.com/benpickles/peity/) [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 - [:octocat:](https://github.com/tgdwyer/WebCola) [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
+
+### Package Mangement Tools
+
+- [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
+- [:octocat:](https://github.com/bower/bower) [bower](http://bower.io/) - A package manager for the web.
+
+### Build Tools & Module Loaders
+
+- [:octocat:](https://github.com/webpack/webpack) [webpack](https://webpack.github.io/) - A bundler for javascript and friends.
+- [:octocat:](https://github.com/gulpjs/gulp) [gulp](http://gulpjs.com/) - The streaming build system.
+- [:octocat:](https://github.com/gruntjs/grunt) [grunt](http://gruntjs.com/) - The JavaScript Task Runner.
+- [:octocat:](https://github.com/substack/node-browserify) [browserify](http://browserify.org/) - Browser-side require() the node.js way.
 
 ### Angular
 
