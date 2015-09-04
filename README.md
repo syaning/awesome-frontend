@@ -1,5 +1,9 @@
 # awesome-frontend
 
+### HTML5
+
+- [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.
+
 ### CSS Frameworks
 
 - [:octocat:](https://github.com/twbs/bootstrap/) [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
@@ -14,11 +18,21 @@
 - [:octocat:](https://github.com/stylus/stylus) [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 - [:octocat:](https://github.com/postcss/postcss) [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 
+### Icon Fonts
+
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+- [Material design icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
+- [Ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic.
+- [Octicons](https://github.com/github/octicons) - GitHub's icon font.
+- [Weather Icons](https://github.com/erikflowers/weather-icons) - 222 Weather Themed Icons and CSS.
+- [Fontello](https://github.com/fontello/fontello) - This tool lets you combine icon webfonts for your own project.
+
 ### JavaScript Code Quality Tools
 
-- [:octocat:](https://github.com/eslint/eslint) [eslint](http://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
-- [:octocat:](https://github.com/jshint/jshint) [jshint](http://jshint.com/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
-- [:octocat:](https://github.com/reid/node-jslint) [jslint](http://www.jslint.com/) - The JavaScript code quality tool.
+- [eslint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+- [jslint](https://github.com/reid/node-jslint) - The JavaScript code quality tool.
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### JavaScript Libraries and Frameworks
 
@@ -75,3 +89,12 @@
 - [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
 - [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
+
+### Articles
+
+- [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+
+### Design
+
+- [Material design](http://www.google.com/design/spec/material-design/introduction.html)
