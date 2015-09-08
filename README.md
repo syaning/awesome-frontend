@@ -1,24 +1,35 @@
 # awesome-frontend
 
+### Tools
+
+- **Package Mangement Tools**
+	- [npm](https://www.npmjs.com/) - A package manager for javascript.
+	- [bower](http://bower.io/) - A package manager for the web.
+- **Build Tools**
+	- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
+	- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+	- [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
+	- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+
 ### Compatibility
 
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.
 - [Can I Use](http://caniuse.com/) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
-### CSS Frameworks
+### CSS
 
-- [:octocat:](https://github.com/twbs/bootstrap/) [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-- [:octocat:](https://github.com/Dogfalo/materialize) [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
-- [:octocat:](https://github.com/semantic-org/semantic-ui/) [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
-- [:octocat:](https://github.com/allmobilize/amazeui) [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
-- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
-
-### CSS Preprocessors
-
-- [:octocat:](https://github.com/less/less.js) [Less](http://lesscss.org/) - The dynamic stylesheet language.
-- [:octocat:](https://github.com/sass/node-sass) [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-- [:octocat:](https://github.com/stylus/stylus) [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
-- [:octocat:](https://github.com/postcss/postcss) [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
+- **Frameworks**
+	- [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+	- [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
+	- [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
+	- [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
+- **Processors**
+	- [Less](http://lesscss.org/) - The dynamic stylesheet language.
+	- [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+	- [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
+	- [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
+- **Utils**
+	- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
 
 ### Icons
 
@@ -80,18 +91,6 @@
 - [:octocat:](https://github.com/gwatts/jquery.sparkline) [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
 - [:octocat:](https://github.com/benpickles/peity/) [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 - [:octocat:](https://github.com/tgdwyer/WebCola) [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
-
-### Package Mangement Tools
-
-- [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
-- [:octocat:](https://github.com/bower/bower) [bower](http://bower.io/) - A package manager for the web.
-
-### Build Tools & Module Loaders
-
-- [:octocat:](https://github.com/webpack/webpack) [webpack](https://webpack.github.io/) - A bundler for javascript and friends.
-- [:octocat:](https://github.com/gulpjs/gulp) [gulp](http://gulpjs.com/) - The streaming build system.
-- [:octocat:](https://github.com/gruntjs/grunt) [grunt](http://gruntjs.com/) - The JavaScript Task Runner.
-- [:octocat:](https://github.com/substack/node-browserify) [browserify](http://browserify.org/) - Browser-side require() the node.js way.
 
 ### Angular
 
