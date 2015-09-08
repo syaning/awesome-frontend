@@ -20,14 +20,20 @@
 - [:octocat:](https://github.com/stylus/stylus) [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 - [:octocat:](https://github.com/postcss/postcss) [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 
-### Icon Fonts
+### Icons
 
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-- [Material design icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
-- [Ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic.
-- [Octicons](https://github.com/github/octicons) - GitHub's icon font.
-- [Weather Icons](https://github.com/erikflowers/weather-icons) - 222 Weather Themed Icons and CSS.
-- [Fontello](https://github.com/fontello/fontello) - This tool lets you combine icon webfonts for your own project.
+- **Icon Fonts**
+	- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+	- [Material design icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
+	- [Ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic.
+	- [Octicons](https://github.com/github/octicons) - GitHub's icon font.
+	- [Weather Icons](https://github.com/erikflowers/weather-icons) - 222 Weather Themed Icons and CSS.
+	- [Fontello](https://github.com/fontello/fontello) - This tool lets you combine icon webfonts for your own project.
+- **SVG Icons**
+	- [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+- **Web Sites**
+	- [Iconfinder](https://www.iconfinder.com/) - 600,000+ free and premium icons.
+	- [Noun Project](https://thenounproject.com/) - Icons for everything.
 
 ### JavaScript Code Quality Tools
 
