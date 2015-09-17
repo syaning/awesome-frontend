@@ -46,17 +46,11 @@
 	- [Iconfinder](https://www.iconfinder.com/) - 600,000+ free and premium icons.
 	- [Noun Project](https://thenounproject.com/) - Icons for everything.
 
-### JavaScript Code Quality Tools
-
-- [eslint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
-- [jslint](https://github.com/reid/node-jslint) - The JavaScript code quality tool.
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-
 ### JavaScript Libraries and Frameworks
 
 - **jQury**
 	- [jQuery](http://jquery.com/), [github](https://github.com/jquery/jquery)
+	- [jQuery UI](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of jQuery.
 - **Angular**
 	- [AngularJS](https://angularjs.org/), [github](https://github.com/angular/angular.js)
 	- [AngularJS 2](https://angular.io/), [github](https://github.com/angular/angular)
@@ -73,21 +67,28 @@
 
 ### ECMAScript
 
-- [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
-- [ECMA 6 Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-- [ES6 Features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
-- [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/) - An open-source ES6 tutorial.
-- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-- [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
-- [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
-- [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
-
-### JavaScript Promise
-
-- [Promises](https://www.promisejs.org/)
-- [Promise/A+](https://promisesaplus.com/)
-- [ES6 Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- [JavaScript Promise Book](http://liubin.github.io/promises-book/)
+- **Code quality tools**
+	- [eslint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+	- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+	- [jslint](https://github.com/reid/node-jslint) - The JavaScript code quality tool.
+- **Code style guide**
+	- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- **ES5**
+	- [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
+	- [ECMAScript 5 compatibility table](http://kangax.github.io/compat-table/es5/)
+- **ES6**
+	- [ECMA 6 Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+	- [ES6 Features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
+	- [ECMAScript 6 Tutorial](http://es6.ruanyifeng.com/) - An open-source ES6 tutorial.
+	- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+	- [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
+	- [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
+	- [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
+- **Promise**
+	- [Promises](https://www.promisejs.org/)
+	- [Promise/A+](https://promisesaplus.com/)
+	- [ES6 Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+	- [JavaScript Promise Book](http://liubin.github.io/promises-book/)
 
 ### Data Visualization
 
