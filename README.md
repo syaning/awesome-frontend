@@ -66,7 +66,7 @@
 - [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
 - [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
 
-### ECMAScript
+### JavaScript
 
 - **Code quality tools**
 	- [eslint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
@@ -74,6 +74,9 @@
 	- [jslint](https://github.com/reid/node-jslint) - The JavaScript code quality tool.
 - **Code style guide**
 	- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+### ECMAScript
+
 - **ES5**
 	- [ECMA 5.1 Specification](http://www.ecma-international.org/ecma-262/5.1/)
 	- [ECMAScript 5 compatibility table](http://kangax.github.io/compat-table/es5/)
@@ -85,6 +88,7 @@
 	- [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
 	- [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 	- [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
+	- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6".
 - **Promise**
 	- [Promises](https://www.promisejs.org/)
 	- [Promise/A+](https://promisesaplus.com/)
