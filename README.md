@@ -107,6 +107,10 @@
 - [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 - [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
 
+### Animation
+
+- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
+
 ### Articles
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
