@@ -115,6 +115,7 @@
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+- [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
 
 ### Design
 
