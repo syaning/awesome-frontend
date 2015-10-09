@@ -49,7 +49,7 @@
 
 ### JavaScript Libraries and Frameworks
 
-- **jQury**
+- **jQuery**
 	- [jQuery](http://jquery.com/), [github](https://github.com/jquery/jquery)
 	- [jQuery UI](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of jQuery.
 - **Angular**
@@ -95,21 +95,25 @@
 	- [ES6 Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 	- [JavaScript Promise Book](http://liubin.github.io/promises-book/)
 
-### Data Visualization
+### JavaScript Libraries
 
-- [D3.js](http://d3js.org/) - A JavaScript library for manipulating documents based on data.
-- [HighCharts](http://www.highcharts.com/) - (SVG) Create interactive charts easily for your web projects.
-- [ECharts](http://echarts.baidu.com/) - (Canvas) A powerful charts library from Baidu.
-- [Raphaël](http://raphaeljs.com/) - (SVG/VML) Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
-- [Springy](http://getspringy.com/) - (Canvas) Springy is a force directed graph layout algorithm.
-- [Sigma](http://sigmajs.org/) - (Canvas)Sigma is a JavaScript library dedicated to graph drawing.
-- [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
-- [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
-- [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
-
-### Animation
-
-- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
+- **Data Visualization**
+	- [D3.js](http://d3js.org/) - A JavaScript library for manipulating documents based on data.
+	- [HighCharts](http://www.highcharts.com/) - (SVG) Create interactive charts easily for your web projects.
+	- [ECharts](http://echarts.baidu.com/) - (Canvas) A powerful charts library from Baidu.
+	- [Raphaël](http://raphaeljs.com/) - (SVG/VML) Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
+	- [Springy](http://getspringy.com/) - (Canvas) Springy is a force directed graph layout algorithm.
+	- [Sigma](http://sigmajs.org/) - (Canvas)Sigma is a JavaScript library dedicated to graph drawing.
+	- [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
+	- [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
+	- [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
+- **Animation**
+	- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
+- **File**
+	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
+	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
+	- [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation.
+	- [pdf.js](https://github.com/mozilla/pdf.js) - PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
 
 ### Articles
 
