@@ -31,6 +31,8 @@
 	- [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 - **Utils**
 	- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
+- **Loader & Spinner**
+	- [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
 
 ### Icons
 
