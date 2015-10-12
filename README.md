@@ -125,6 +125,7 @@
 ### Articles
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [浏览器的渲染原理简介](http://coolshell.cn/articles/9666.html)
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 - [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
 
