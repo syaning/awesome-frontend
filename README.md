@@ -119,6 +119,8 @@
 	- [pdf.js](https://github.com/mozilla/pdf.js) - PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
 - **Clipboard**
 	- [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
+- **Editor**
+	- [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
 
 ### Articles
 
