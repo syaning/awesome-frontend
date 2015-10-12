@@ -111,6 +111,7 @@
 	- [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
 - **Animation**
 	- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
+	- [popmotion](https://github.com/Popmotion/popmotion) - A 12kb Javascript motion engine. Use for animation, physics and input tracking.
 - **File**
 	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
 	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
