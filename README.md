@@ -24,6 +24,7 @@
 	- [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 	- [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
 	- [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
+	- [Skeleton](https://github.com/dhg/Skeleton/) - Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 - **Processors**
 	- [Less](http://lesscss.org/) - The dynamic stylesheet language.
 	- [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
