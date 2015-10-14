@@ -121,6 +121,9 @@
 	- [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
 - **Editor**
 	- [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
+- **Presentation**
+	- [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+	- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
 ### Articles
 
