@@ -2,13 +2,14 @@
 
 ### Tools
 
-- **Package Mangement Tools**
+- **Package Mangement Tool**
 	- [npm](https://www.npmjs.com/) - A package manager for javascript.
 	- [bower](http://bower.io/) - A package manager for the web.
-- **Build Tools & Module Loaders**
-	- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
+- **Build Tool**
 	- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 	- [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
+- **Module Loader**
+	- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
 	- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 	- [RequireJS](http://requirejs.org/) - A file and module loader for JavaScript.
 
