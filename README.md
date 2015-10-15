@@ -120,6 +120,7 @@
 	- [pdf.js](https://github.com/mozilla/pdf.js) - PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
 - **Clipboard**
 	- [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
+	- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 - **Editor**
 	- [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
 - **Presentation**
