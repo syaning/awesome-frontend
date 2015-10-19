@@ -26,6 +26,7 @@
 	- [SemanticUI](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
 	- [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
 	- [Skeleton](https://github.com/dhg/Skeleton/) - Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
+	- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3.
 - **Processors**
 	- [Less](http://lesscss.org/) - The dynamic stylesheet language.
 	- [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
@@ -35,6 +36,10 @@
 	- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
 - **Loader & Spinner**
 	- [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
+- **Misc**
+	- [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown.
+	- [filter.css](https://github.com/simurai/filter.css) - A collection of CSS filter combos.
+	- [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 
 ### Icons
 
@@ -61,14 +66,19 @@
 	- [AngularJS 2](https://angular.io/), [github](https://github.com/angular/angular)
 	- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
 	- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
+	- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
 - **React**
 	- [React](https://facebook.github.io/react/), [github](https://github.com/facebook/react)
 	- [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 	- [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
 	- [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 	- [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
+	- [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
+	- [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
 - [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
 - [Ember.js](http://www.emberjs.com/) - A JavaScript framework for creating ambitious web applications.
+- [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components.
+- [aurelia](https://github.com/aurelia/framework) - The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
 
 ### JavaScript
 
@@ -111,10 +121,13 @@
 	- [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - (Canvas) It generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
 	- [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 	- [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
+	- [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 - **Animation**
 	- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
 	- [popmotion](https://github.com/Popmotion/popmotion) - A 12kb Javascript motion engine. Use for animation, physics and input tracking.
 	- [ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth transitions.
+	- [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+	- [iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
 - **File**
 	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
 	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
@@ -130,6 +143,17 @@
 	- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - **Template**
 	- [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
+	- [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+- **Router**
+	- [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
+- **Date**
+	- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- **Util**
+	- [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+- **Misc**
+	- [TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
+	- [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
+	- [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 
 ### Articles
 
