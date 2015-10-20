@@ -87,6 +87,7 @@
 	- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 	- [jslint](https://github.com/reid/node-jslint) - The JavaScript code quality tool.
 - **Code style guide**
+	- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 	- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### ECMAScript
