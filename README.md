@@ -155,6 +155,7 @@
 	- [TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 	- [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 	- [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
+	- [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
 
 ### Articles
 
