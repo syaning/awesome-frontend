@@ -139,6 +139,7 @@
 	- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 - **Editor**
 	- [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
+	- [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 - **Presentation**
 	- [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 	- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
