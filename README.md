@@ -123,6 +123,7 @@
 	- [Peity](http://benpickles.github.io/peity/) - (SVG) A simple jQuery plugin that converts an element's content into a simple chart.
 	- [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
 	- [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
+	- [heatmap.js](https://github.com/pa7/heatmap.js) - (Canvas) JavaScript Library for HTML5 canvas based heatmaps.
 - **Animation**
 	- [GreenSock](http://greensock.com/) - Ultra high-performance, professional-grade animation for the modern web.
 	- [popmotion](https://github.com/Popmotion/popmotion) - A 12kb Javascript motion engine. Use for animation, physics and input tracking.
