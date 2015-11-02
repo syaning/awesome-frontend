@@ -68,6 +68,7 @@
 	- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
 	- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
 	- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
+	- [Dynamically Loading Controllers and Views with AngularJS/$controllerProvider and RequireJS](http://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
 - **React**
 	- [React](https://facebook.github.io/react/), [github](https://github.com/facebook/react)
 	- [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
