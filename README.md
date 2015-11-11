@@ -37,6 +37,7 @@
 	- [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
 - **Loader & Spinner**
 	- [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
+	- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - **Misc**
 	- [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown.
 	- [filter.css](https://github.com/simurai/filter.css) - A collection of CSS filter combos.
@@ -56,6 +57,7 @@
 - **Web Sites**
 	- [Iconfinder](https://www.iconfinder.com/) - 600,000+ free and premium icons.
 	- [Noun Project](https://thenounproject.com/) - Icons for everything.
+	- [Material Icons](https://www.google.com/design/icons/)
 
 ### JavaScript Libraries and Frameworks
 
@@ -132,6 +134,7 @@
 	- [ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth transitions.
 	- [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 	- [iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
+	- [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
 - **File**
 	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
 	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
@@ -167,6 +170,9 @@
 - [浏览器的渲染原理简介](http://coolshell.cn/articles/9666.html)
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 - [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
+- [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+- [Ideas for Subtle Hover Effects](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
+- [Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 
 ### Design
 
