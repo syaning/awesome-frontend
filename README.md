@@ -173,6 +173,7 @@
 - [Chrome DevTools Overview](https://developer.chrome.com/devtools)
 - [Ideas for Subtle Hover Effects](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
 - [Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 ### Design
 
