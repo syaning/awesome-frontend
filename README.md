@@ -108,6 +108,7 @@
 	- [Traceur](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 	- [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
 	- [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6".
+	- [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 - **Promise**
 	- [Promises](https://www.promisejs.org/)
 	- [Promise/A+](https://promisesaplus.com/)
@@ -135,6 +136,7 @@
 	- [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 	- [iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
 	- [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
+	- [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
 - **File**
 	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
 	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
