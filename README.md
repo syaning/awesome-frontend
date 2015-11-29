@@ -182,3 +182,4 @@
 - [Material design](http://www.google.com/design/spec/material-design/introduction.html)
 - [日本の伝統色](http://nipponcolors.com/) - The traditional colors of Japan.
 - [colour code](http://colourco.de/) - Find your colour scheme.
+- [WEB色見本 原色大辞典](http://www.colordic.org/)
