@@ -94,6 +94,7 @@
 - **Code style guide**
 	- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 	- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+	- [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript.
 
 ### ECMAScript
 
