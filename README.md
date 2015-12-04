@@ -153,6 +153,7 @@
 - **Presentation**
 	- [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 	- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+	- [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations.
 - **Template**
 	- [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 	- [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
