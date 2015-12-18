@@ -140,6 +140,7 @@
 	- [iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
 	- [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
 	- [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
+	- [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
 - **File**
 	- [js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer.
 	- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
