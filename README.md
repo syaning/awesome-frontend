@@ -207,6 +207,7 @@
 - [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 - [heatmap.js](https://github.com/pa7/heatmap.js) - (Canvas) JavaScript Library for HTML5 canvas based heatmaps.
+- [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the <canvas> tag.
 
 ### Animation
 
@@ -218,6 +219,7 @@
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
 - [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
+- [Animate.css](http://daneden.github.io/animate.css) - A cross-browser library of CSS animations.
 
 ### File
 
@@ -250,6 +252,7 @@
 ### Misc
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+- [lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 - [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - VerbalExpressions is a JavaScript library that helps to construct difficult regular expressions.
