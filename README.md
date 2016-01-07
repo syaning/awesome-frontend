@@ -36,9 +36,6 @@
 	- [Editor](#editor)
 	- [Presentation](#presentation)
 	- [Template](#template)
-	- [Router](#router)
-	- [Date](#date)
-	- [Util](#util)
 	- [Misc](#misc)
 - [Articles](#articles)
 - [Design](#design)
@@ -250,24 +247,12 @@
 - [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 - [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 
-### Router
-
-- [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
-
-### Date
-
-- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-
-### RegExp
-
-- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - VerbalExpressions is a JavaScript library that helps to construct difficult regular expressions.
-
-### Util
-
-- [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
-
 ### Misc
 
+- [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+- [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - VerbalExpressions is a JavaScript library that helps to construct difficult regular expressions.
 - [TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
