@@ -1,19 +1,30 @@
 # awesome-frontend
 
-### Tools
+- [Tools](#tools)
+	- [Package Management](#package-management)
+	- [Build](#build)
+	- [Module](#module)
+- [Compatibility](#compatibility)
 
-- **Package Mangement Tool**
-	- [npm](https://www.npmjs.com/) - A package manager for javascript.
-	- [bower](http://bower.io/) - A package manager for the web.
-- **Build Tool**
-	- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
-	- [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
-- **Module Loader**
-	- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
-	- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
-	- [RequireJS](http://requirejs.org/) - A file and module loader for JavaScript.
+# Tools
 
-### Compatibility
+### Package Management
+
+- [npm](https://www.npmjs.com/) - A package manager for javascript.
+- [bower](http://bower.io/) - A package manager for the web.
+
+### Build
+
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+- [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
+
+### Module
+
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
+- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+- [RequireJS](http://requirejs.org/) - A file and module loader for JavaScript.
+
+# Compatibility
 
 - [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user's browser.
 - [Can I Use](http://caniuse.com/) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
