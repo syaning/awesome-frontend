@@ -258,6 +258,10 @@
 
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 
+### RegExp
+
+- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - VerbalExpressions is a JavaScript library that helps to construct difficult regular expressions.
+
 ### Util
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
