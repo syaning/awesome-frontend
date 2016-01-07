@@ -262,7 +262,7 @@
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 
-### JS Lib Misc
+### Misc
 
 - [TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
