@@ -10,6 +10,7 @@
 - [CSS](#css)
 	- [CSS Frameworks](#css-frameworks)
 	- [Processors](#processors)
+	- [CSS Animation](#css-animation)
 	- [CSS Misc](#css-misc)
 - [Icons](#icons)
 	- [Icon Fonts](#icon-fonts)
@@ -82,11 +83,15 @@
 - [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 - [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 
+### CSS Animation
+
+- [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
+- [Animate.css](http://daneden.github.io/animate.css) - A cross-browser library of CSS animations.
+
 ### CSS Misc
 
 - [Front-end Frameworks](http://usablica.github.io/front-end-frameworks/compare.html) - A collection of best front-end frameworks for faster and easier web development.
-- [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
-- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown.
 - [filter.css](https://github.com/simurai/filter.css) - A collection of CSS filter combos.
 - [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
@@ -219,7 +224,6 @@
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
 - [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
-- [Animate.css](http://daneden.github.io/animate.css) - A cross-browser library of CSS animations.
 
 ### File
 
