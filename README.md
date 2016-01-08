@@ -213,6 +213,7 @@
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 - [heatmap.js](https://github.com/pa7/heatmap.js) - (Canvas) JavaScript Library for HTML5 canvas based heatmaps.
 - [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the <canvas> tag.
+- [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 
 ### Animation
 
