@@ -88,6 +88,7 @@
 - [css-spinners](https://github.com/jlong/css-spinners) - Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
 - [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [Animate.css](http://daneden.github.io/animate.css) - A cross-browser library of CSS animations.
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
 
 ### CSS Misc
 
