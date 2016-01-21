@@ -55,6 +55,7 @@
 
 ### Module
 
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 - [RequireJS](http://requirejs.org/) - A file and module loader for JavaScript.
