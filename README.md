@@ -216,6 +216,8 @@
 - [heatmap.js](https://github.com/pa7/heatmap.js) - (Canvas) JavaScript Library for HTML5 canvas based heatmaps.
 - [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the <canvas> tag.
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
+- [OpenLayers](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
+- [Leaflet](http://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 
 ### Animation
 
