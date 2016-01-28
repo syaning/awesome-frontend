@@ -246,6 +246,7 @@
 
 - [ace](https://github.com/ajaxorg/ace) - Ace is a standalone code editor written in JavaScript.
 - [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+- [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 ### Presentation
 
