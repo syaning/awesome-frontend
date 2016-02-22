@@ -76,6 +76,7 @@
 - [AmazeUI](http://amazeui.org/) - A mobile-first and modular front-end framework.
 - [Skeleton](https://github.com/dhg/Skeleton/) - Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 - [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3.
+- [MUI](https://github.com/muicss/mui) - MUI is a lightweight CSS framework that follows Google's Material Design guidelines.
 
 ### Processors
 
