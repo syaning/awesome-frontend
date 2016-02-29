@@ -261,6 +261,10 @@
 - [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 - [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 
+### Carousel
+
+- [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
+
 ### Misc
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
