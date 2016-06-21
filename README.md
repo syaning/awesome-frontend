@@ -251,6 +251,7 @@
 - [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [Draft.js](https://github.com/facebook/draft-js) - Draft.js is a JavaScript rich text editor framework, built for React and backed by an immutable model.
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor.
 
 ### Presentation
 
