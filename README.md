@@ -231,6 +231,7 @@
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
 - [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
+- [anime](https://github.com/juliangarnier/anime) - Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 
 ### File
 
