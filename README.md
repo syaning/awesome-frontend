@@ -253,6 +253,7 @@
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [Draft.js](https://github.com/facebook/draft-js) - Draft.js is a JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor.
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors in the browser.
 
 ### Presentation
 
