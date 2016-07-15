@@ -139,6 +139,7 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today.
 - [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6".
 - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+- [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6.
 
 ### Promise
 
