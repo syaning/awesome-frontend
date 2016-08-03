@@ -185,6 +185,7 @@
 - [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
 - [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
 - [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
+- [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
 
 ### Vue
 
@@ -270,6 +271,7 @@
 ### Carousel
 
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
 
 ### Misc
 
@@ -282,6 +284,7 @@
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
+- [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 
 ## Articles
 
