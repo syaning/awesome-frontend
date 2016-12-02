@@ -109,7 +109,10 @@
 - [Ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic.
 - [Octicons](https://github.com/github/octicons) - GitHub's icon font.
 - [Weather Icons](https://github.com/erikflowers/weather-icons) - 222 Weather Themed Icons and CSS.
-- [Fontello](https://github.com/fontello/fontello) - This tool lets you combine icon webfonts for your own project.
+- [Entypo](http://www.entypo.com/) - 411 carefully crafted premium pictograms by Daniel Bruce — CC BY-SA 4.0.
+- [Typicons](http://www.typicons.com/) - 336 pixel perfect, all-purpose vector icons.
+- [Iconic](https://useiconic.com/) - The definitive icon set designed for the modern web.
+- [Fontello](http://fontello.com/) - This tool lets you combine icon webfonts for your own project.
 
 ### SVG Icons
 
