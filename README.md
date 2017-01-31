@@ -37,6 +37,7 @@
 	- [Editor](#editor)
 	- [Presentation](#presentation)
 	- [Template](#template)
+	- [Localization and internationalization](#localization-and-internationalization)
 	- [Misc](#misc)
 - [Articles](#articles)
 - [Design](#design)
@@ -276,6 +277,9 @@
 
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
+
+### Localization and internationalization
+- [c-3po](https://c-3po.js.org) - javascript localization tool based on es6 template literals.
 
 ### Misc
 
