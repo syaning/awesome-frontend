@@ -226,6 +226,7 @@
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [OpenLayers](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 - [Leaflet](http://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+- [plotly.js](https://plot.ly/javascript/) - The open source JavaScript graphing library that powers Plotly.
 
 ### Animation
 
