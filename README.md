@@ -31,6 +31,7 @@
 	- [Aurelia](#aurelia)
 - [JavaScript Libs](#javascript-libs)
 	- [Data Visualization](#data-visualization)
+	- [Graphic](#graphic)
 	- [Animation](#animation)
 	- [File](#file)
 	- [Clipboard](#clipboard)
@@ -227,6 +228,11 @@
 - [OpenLayers](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 - [Leaflet](http://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 - [plotly.js](https://plot.ly/javascript/) - The open source JavaScript graphing library that powers Plotly.
+
+### Graphic
+
+- [p5.js](https://github.com/processing/p5.js) - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
+- [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 
 ### Animation
 
