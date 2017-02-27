@@ -252,6 +252,7 @@
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
+- [file-dialog](https://github.com/alnorris/file-dialog) - Trigger the file dialog directly from your code without any hacks.
 
 ### Clipboard
 
