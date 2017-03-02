@@ -126,6 +126,9 @@
 - [Noun Project](https://thenounproject.com/) - Icons for everything.
 - [Material Icons](https://www.google.com/design/icons/)
 
+### Icon Tools
+- [ConvertICO](http://convertico.com/)
+
 ## JavaScript
 
 ### ECMAScript 5
