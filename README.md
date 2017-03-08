@@ -125,8 +125,6 @@
 - [Iconfinder](https://www.iconfinder.com/) - 600,000+ free and premium icons.
 - [Noun Project](https://thenounproject.com/) - Icons for everything.
 - [Material Icons](https://www.google.com/design/icons/)
-
-### Icon Tools
 - [ConvertICO](http://convertico.com/)
 
 ## JavaScript
@@ -310,6 +308,7 @@
 - [Ideas for Subtle Hover Effects](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
 - [Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [Learn CSS Layout](http://learnlayout.com/)
 
 ## Design
 
