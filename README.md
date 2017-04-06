@@ -196,6 +196,7 @@
 ### Vue
 
 - [vue](http://vuejs.org/) - Intuitive, fast & component-oriented view library for building modern web interfaces.
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 
 ### Ember
 
