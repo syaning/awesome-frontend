@@ -228,11 +228,12 @@
 - [cola.js](http://marvl.infotech.monash.edu/webcola/) - (SVG) Constraint-Based Layout in the Browser.
 - [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 - [heatmap.js](https://github.com/pa7/heatmap.js) - (Canvas) JavaScript Library for HTML5 canvas based heatmaps.
-- [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the <canvas> tag.
+- [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the `<canvas>` tag.
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [OpenLayers](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 - [Leaflet](http://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 - [plotly.js](https://plot.ly/javascript/) - The open source JavaScript graphing library that powers Plotly.
+- [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
 
 ### Graphic
 
