@@ -38,6 +38,7 @@
 	- [Editor](#editor)
 	- [Presentation](#presentation)
 	- [Template](#template)
+	- [Multiple Media](#multiple-media)
 	- [Misc](#misc)
 - [Articles](#articles)
 - [Design](#design)
@@ -290,6 +291,11 @@
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
 
+### Multiple Media
+
+- [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+- [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
+
 ### Misc
 
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
@@ -301,7 +307,6 @@
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
-- [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 
 ## Articles
 
