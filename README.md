@@ -38,7 +38,7 @@
 	- [Editor](#editor)
 	- [Presentation](#presentation)
 	- [Template](#template)
-	- [Multiple Media](#multiple-media)
+	- [Multimedia](#multimedia)
 	- [Misc](#misc)
 - [Articles](#articles)
 - [Design](#design)
@@ -291,7 +291,7 @@
 - [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured javascript lightbox gallery. No dependencies.
 
-### Multiple Media
+### Multimedia
 
 - [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
