@@ -126,8 +126,9 @@
 
 - [Iconfinder](https://www.iconfinder.com/) - 600,000+ free and premium icons.
 - [Noun Project](https://thenounproject.com/) - Icons for everything.
-- [Material Icons](https://www.google.com/design/icons/)
-- [ConvertICO](http://convertico.com/)
+- [Material Icons](https://www.google.com/design/icons/) - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
+- [ConvertICO](http://convertico.com/) - ConvertICO is a free online ICO/PNG file converter.
+- [ICO converter](https://www.icoconverter.com/) - ICO converter is a simple online .ico image converter. It will take any image and convert it to ICO file, for web site favicon or Windows applications.
 
 ## JavaScript
 
