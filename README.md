@@ -130,6 +130,7 @@
 - [Material Icons](https://www.google.com/design/icons/) - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
 - [ConvertICO](http://convertico.com/) - ConvertICO is a free online ICO/PNG file converter.
 - [ICO converter](https://www.icoconverter.com/) - ICO converter is a simple online .ico image converter. It will take any image and convert it to ICO file, for web site favicon or Windows applications.
+- [Nerd Fonts](https://nerdfonts.com/) - Iconic font aggregator, collection, and patcher.
 
 ## JavaScript
 
