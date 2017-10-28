@@ -168,7 +168,7 @@
 
 ### Code Style
 
-- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) ([ES5](https://google.github.io/styleguide/javascriptguide.xml))
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript.
 
