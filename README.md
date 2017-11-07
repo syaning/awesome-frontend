@@ -238,6 +238,7 @@
 - [Leaflet](http://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 - [plotly.js](https://plot.ly/javascript/) - The open source JavaScript graphing library that powers Plotly.
 - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
+- [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
 
 ### Graphic
 
