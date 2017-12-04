@@ -204,6 +204,7 @@
 - [element](http://element.eleme.io) - A Vue.js 2.0 UI Toolkit for Web.
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
+- [Muse-UI](http://www.muse-ui.org)
 
 ### Ember
 
