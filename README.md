@@ -241,6 +241,7 @@
 - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript.
+- [BizCharts](https://github.com/alibaba/BizCharts/) - Powerful data visualization library based on G2 and React.
 
 ### Graphic
 
