@@ -330,6 +330,8 @@
 ## Design
 
 - [Material design](http://www.google.com/design/spec/material-design/introduction.html)
+- [Collect UI](http://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [日本の伝統色](http://nipponcolors.com/) - The traditional colors of Japan.
 - [colour code](http://colourco.de/) - Find your colour scheme.
 - [WEB色見本 原色大辞典](http://www.colordic.org/)
+
