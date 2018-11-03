@@ -122,6 +122,7 @@
 
 - [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
+- [eva-icons](https://github.com/akveo/eva-icons/) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 
 ### Icon Sites
 
