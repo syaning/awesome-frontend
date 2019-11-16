@@ -327,6 +327,7 @@
 - [Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Learn CSS Layout](http://learnlayout.com/)
+- [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
 
 ## Design
 
