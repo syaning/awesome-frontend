@@ -305,7 +305,7 @@
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - Amplitude.js is the HTML5 Audio Player for the modern era. No dependencies required.
 
 ### Misc
-
+- [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 - [lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 - [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
