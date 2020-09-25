@@ -56,6 +56,7 @@
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
 - [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
+- [Pingy CLI](https://github.com/pingyhq/pingy-cli) - The Simple Frontend Build Tool.
 
 ### Module
 
