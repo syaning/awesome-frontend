@@ -72,6 +72,7 @@
 
 ### CSS Frameworks
 
+- [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular
 - [Bootstrap](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [bootswatch](https://github.com/thomaspark/bootswatch/) - Bootswatch is a collection of free themes for Bootstrap.
 - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
