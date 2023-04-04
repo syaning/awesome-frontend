@@ -208,6 +208,7 @@
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
 - [Muse-UI](http://www.muse-ui.org)
+- [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)
 
 ### Ember
 
