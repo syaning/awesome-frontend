@@ -262,6 +262,7 @@
 - [mojs](https://github.com/legomushroom/mojs) - motion graphics library for the web.
 - [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers.
 - [anime](https://github.com/juliangarnier/anime) - Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
+- [Framer Motion](https://github.com/framer/motion) - An open source React library to power production-ready animations with simple declarative APIs.
 
 ### File
 
@@ -295,6 +296,8 @@
 
 - [mustache.js](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 - [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+- [Handlebars](https://github.com/handlebars-lang/handlebars.js) - A popular logic-less templating engine built on top of Mustache, with extended features like helpers and partials.
+
 
 ### Carousel
 
@@ -310,13 +313,16 @@
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 - [lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
-- [director](https://github.com/flatiron/director) - A routing library that works in both the browser and node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
-- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [director](https://github.com/flatiron/director) - A routing library that works in both the browser and Node.js environments with as few differences as possible. Simplifies the development of Single Page Apps and Node.js applications. Dependency free.
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in JavaScript.
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - VerbalExpressions is a JavaScript library that helps to construct difficult regular expressions.
 - [TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 - [dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading.
 - [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Smartcrop.js implements an algorithm to find good crops for images.
+- [CORS Tester](https://cors-error.dev/cors-tester/) - A tool to test API endpoints for proper CORS configuration, helping identify missing headers and resolve cross-origin issues.
+
+
 
 ## Articles
 
