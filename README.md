@@ -125,6 +125,7 @@
 - [Evil Icons](https://github.com/outpunk/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons.
 - [eva-icons](https://github.com/akveo/eva-icons/) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [Flowbite Icons](https://flowbite.com/icons/) - Open-source collection of over 430 SVG icons in outline and solid styles built for Tailwind CSS, React, and Figma.
 
 ### Icon Sites
 
@@ -200,6 +201,7 @@
 - [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
 - [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
 - [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
+- [Flowbite React](https://flowbite-react.com/) - Open-source UI component library built with React components and the utility classes from Tailwind CSS.
 
 ### Vue
 
